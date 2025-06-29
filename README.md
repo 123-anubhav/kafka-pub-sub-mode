@@ -85,6 +85,7 @@ kafka-topics.bat --delete --bootstrap-server localhost:9092 --topic anubhav_orde
 ---
 
 ```
+...
 
 kafka pub-sub model-example
 
